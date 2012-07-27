@@ -1,0 +1,69 @@
+body
+{
+  margin: 0;
+  padding: 0;
+}
+
+#screen
+{
+  background-color: #AADDFF;
+  width: 100%;
+  display: inline-block;
+  margin: 0px;
+  padding: 10px;
+}
+
+.barre_outils
+{
+  background-color: #DDDDDD;
+  height: 40px;
+  margin: 0px;
+  padding: 0px;
+}
+
+#barre_outils_top
+{
+}
+
+#barre_outils_bottom
+{
+  margin-top: -4px;
+}
+
+.bouton
+{
+  display: inline-block;
+  width: 36px;
+  height: 36px;
+  border: 0;
+}
+
+.fenetre
+{
+  margin: 0px;
+  padding: 0px;
+  display: block;
+
+  width: 400px;
+
+  background-color: #DDDDDD;
+}
+
+.fenetre_entete
+{
+  cursor: pointer;
+}
+
+.fenetre_corps
+{
+	display: block;
+	width: 400px;
+	height: 200px;
+}
+
+textarea #console
+{
+	display: block;
+	width: 400px;
+	height: 200px;
+}
